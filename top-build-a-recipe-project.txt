@@ -1,0 +1,50 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Odin Recipes</title>
+</head>
+<body>
+    <h1>Creamy Chocolate Fudge</h1>
+    <img src="path-to-image.jpg" alt="A delicious piece of creamy chocolate fudge" />
+    
+    <h2>Description</h2>
+    <p>This creamy chocolate fudge is a rich and smooth treat that melts in your mouth. Perfect for satisfying your sweet tooth and sharing with friends.</p>
+    <p>Made with simple ingredients, it's easy to prepare and always a crowd-pleaser.</p>
+    
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 cups semi-sweet chocolate chips</li>
+        <li>1 cup sweetened condensed milk</li>
+        <li>1/4 cup unsalted butter</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>Pinch of salt</li>
+    </ul>
+    
+    <h2>Steps</h2>
+    <ol>
+        <li>In a saucepan, melt the butter over low heat.</li>
+        <li>Add chocolate chips and stir until smooth.</li>
+        <li>Mix in condensed milk, vanilla, and salt until well combined.</li>
+        <li>Pour the mixture into a prepared baking dish and smooth the top.</li>
+        <li>Refrigerate for at least 2 hours or until firm.</li>
+        <li>Cut into squares and serve.</li>
+    </ol>
+    
+    <h2>More Recipes</h2>
+    <ul>
+        <li><a href="#">Vanilla Bean Ice Cream</a></li>
+        <li><a href="#">Strawberry Shortcake</a></li>
+    </ul>
+</body>
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+
+
+** end of styles.css **
+
